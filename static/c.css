@@ -95,7 +95,7 @@ hack-nest {
 }
 .liking:after {
   font-size: 25vw;
-  content: "Like";
+  content: "Match";
   padding: 10px 26px;
   color: #73c998;
   border: #73c998 2vw solid;
